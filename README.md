@@ -1,4 +1,4 @@
-# Hi, I'm Artur 👋
+# Hi, I'm Artur
 
 Senior Firmware & Embedded Systems Engineer based in the Berlin area.  
 Developing embedded systems since 2007 — bridging low-level microcontroller firmware, hardware design, and custom software tooling.
