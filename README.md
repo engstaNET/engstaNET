@@ -1,7 +1,7 @@
 # Hi, I'm Artur
 
 Firmware & Embedded Engineer based in the Berlin area.  
-Developing embedded systems since 2007 — bridging low-level microcontroller firmware, hardware design, and custom software tooling.
+Developing embedded systems since 2007 — bringing low-level microcontroller firmware, hardware design, and software together.
 
 ---
 
